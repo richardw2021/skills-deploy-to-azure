@@ -12,5 +12,3 @@ jobs:
       - uses: actions/checkout@v4
       - name: Stage
         run: echo "Staging deploy would run here"
-		
- 
